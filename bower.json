@@ -1,0 +1,20 @@
+{
+  "name": "Synthesizer",
+  "homepage": "https://github.com/iProgress/Synthezier",
+  "authors": [
+    "iProgress <electrotribe@gmail.com>"
+  ],
+  "description": "Synthesizer Build with Web Audio API",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tone": "0.7.1",
+    "qwerty-hancock": "0.5.1"
+  }
+}
